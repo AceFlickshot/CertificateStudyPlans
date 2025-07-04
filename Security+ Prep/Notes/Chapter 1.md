@@ -21,3 +21,6 @@ Ensures that information and systems are ready to meet the needs of legitimate u
 ```
 
 ### Nonrepudiation
+```
+When someone has performed some action they cannot later deny having taken such an action. Digital Signatures are a common method of enforcing non repudiation. They allow confirmation that a message has arrived from its purported sender. 
+```
